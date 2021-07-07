@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+### LabeX
+Um versão simplifcada do SpaceX, com ofereta de viagens espaciais.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Login:
+	"email": "ademir@admin.com.br",
+	"password": "ademir_o_admin"
 
-## Available Scripts
 
-In the project directory, you can run:
+### O que não funciona
+- O filtro de data mínima não funcionou.
+ 
+### Link Surge 
+http://labex-rodrigobb.surge.sh/
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Imagens
+![Captura de tela de 2021-06-11 16-05-15](https://user-images.githubusercontent.com/81428197/121737615-7bdc2c80-cacf-11eb-9474-e696f94cbc35.png)
+![Captura de tela de 2021-06-11 16-02-35](https://user-images.githubusercontent.com/81428197/121737618-7c74c300-cacf-11eb-8e43-7212f3669e7e.png)
+![Captura de tela de 2021-06-11 16-02-28](https://user-images.githubusercontent.com/81428197/121737624-7d0d5980-cacf-11eb-894c-f57f2fd69c21.png)
+![Captura de tela de 2021-06-11 16-02-19](https://user-images.githubusercontent.com/81428197/121737627-7d0d5980-cacf-11eb-8c35-87f885eeba63.png)
+![Captura de tela de 2021-06-11 16-02-10](https://user-images.githubusercontent.com/81428197/121737630-7da5f000-cacf-11eb-9b09-da9aec8e0722.png)
+![Captura de tela de 2021-06-11 16-02-03](https://user-images.githubusercontent.com/81428197/121737634-7e3e8680-cacf-11eb-825c-c637a622749e.png)
+![Captura de tela de 2021-06-11 16-01-54](https://user-images.githubusercontent.com/81428197/121737635-7e3e8680-cacf-11eb-83a2-ad888cc3563e.png)
+![Captura de tela de 2021-06-11 16-11-54](https://user-images.githubusercontent.com/81428197/121737838-c9589980-cacf-11eb-958f-17d3081ecb2e.png)
