@@ -7,7 +7,7 @@ Um versão simplifcada do SpaceX, com ofereta de viagens espaciais.
 
 
 ### O que não funciona
-- O filtro de data mínima não funcionou.
+- O regex/patern de data mínima não funcionou.
  
 ### Link Surge 
 http://labex-rodrigobb.surge.sh/
